@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang "es">
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <title>Empty Project</title>
+        <script src="code.js" type="text/javascript" charset="utf-8"></script>        
+        <link href="style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <h1 class="Titulo">Tarifa Transporte</h1>
+        <h2 class="Titulo1">Precio</h2>
+        <p id="Titulo2">Tarifa de Concho y Omsa</p>
+        <img src="http://bit.ly/2ZKZ1qX">
+        <br>
+        <input class="campo" type="number">
+        <br>
+        <input class="campo" type="submit">
+    </body>
+</html>
